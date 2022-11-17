@@ -28,7 +28,7 @@
     "winston": "^2.4.4"
   },
   "devDependencies": {
-    "@angular/cli": "^1.7.4",
+    "@angular/cli": "^15.0.0",
     "@types/body-parser": "0.0.33",
     "@types/cors": "^2.8.4",
     "@types/debug": "0.0.29",
